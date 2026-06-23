@@ -3,7 +3,6 @@
 Reference resources, links, books, tools, and MITRE ATT&CK mappings.
 
 
-```md
 # Cybersecurity Resources
 
 ## Learning Platforms
