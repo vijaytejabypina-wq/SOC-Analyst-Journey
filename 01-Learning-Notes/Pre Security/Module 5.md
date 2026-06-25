@@ -3,6 +3,7 @@
 ## Operating System Basics
 
 Learned that an operating system acts as an interface between users, applications, and hardware, managing system resources and ensuring that all components work together efficiently.
+
 <img width="358" height="255" alt="image" src="https://github.com/user-attachments/assets/1ac90b73-956d-45b8-8481-317a440d70c6" />
 
 ## System Privilege Layers
