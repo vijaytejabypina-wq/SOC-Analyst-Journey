@@ -8,7 +8,7 @@ find -name file_name.txt(to find a file in the device)
 wc(to count the number of entries)
 grep "text" file_name.txt(to find text in file_name.txt)
 grep -R "text" /Directory(to find text in all files in directory folder and all its sub folders)
-& is used to run command in background
+& or ctrl + z (is used to run command in background)
 command1 && commnd2(&& used to run command2 after succesful completion of command1)
 echo text > file_name(> sends text into file)
 echo text >> file_name(>> sends text into bottom of the file without clearing past data)
@@ -29,3 +29,7 @@ scp file_name username@ip_address:file/location(to transfer file data from remot
 scp username@ip_address:file/location file_name(to transfer file data from attack device to remote device)
 python3 -m http.server(-m means module that It tells the Python interpreter to locate a specific built-in or installed module and execute it as a script)
 wget http://ip_address/file_name(to download a file from server hosted device)
+top (It gives you real-time statistics about the processes running on your system instead of a one-time view)
+kill pid(kills the process with given id)
+systemctl option service(to make a process turn on during boot)
+  
